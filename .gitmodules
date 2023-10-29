@@ -1,0 +1,4 @@
+[submodule "kopf"]
+      path = kopf
+      url = https://github.com/nolar/kopf
+      branch = 1.3.26
